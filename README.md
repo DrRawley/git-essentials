@@ -2,6 +2,7 @@
 
 This a course to teach you how to use git.
 
+To say something else (master branch [stash example])
 
 ## Deployment notes
 Nostrud nulla incididunt et consequat dolore quis deserunt. Est consequat ipsum aliqua irure nisi. Exercitation cillum eu eu duis excepteur ullamco.
